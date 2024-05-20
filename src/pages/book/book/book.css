@@ -1,0 +1,26 @@
+.book-head{
+    width: 333px;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.book-head-title{
+    float: left;
+    width: 50px;
+    height: 30px;
+    line-height: 30px;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 30px;
+    
+}
+.book-head-search-icon{
+    float: right;
+    width: 16px;
+    height: 16px;
+    margin-top: 7px;
+    margin-right: 2px;
+    background: url('../../../images/booksearch.png');
+    background-size: 100% 100%;
+}

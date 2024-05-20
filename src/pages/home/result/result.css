@@ -1,0 +1,136 @@
+.result{
+    width: 200px;
+    height: 14px;
+    font-size: 14px;
+    line-height: 14px;
+    margin-top: 20px;
+    margin-left: 20px;
+  
+    color: gray;
+}
+.result-icon{
+    width: 30px;
+    margin-left: 0px;
+    margin-top: 5px;
+    height: 30px;
+    background: url('../../../images/results.png');
+    background-size: 100% 100%;
+    float: left;
+}
+.result-name{
+    margin-left: 10px;
+    float: left;
+    width: 200px;
+    height: 40px;
+    margin-top: 2px;
+    
+}
+.result-detail{
+    float: left;
+    margin-left: 43px;
+    width: 50px;
+    height: 30px;
+    margin-top: 5px;
+    
+}
+.result1{
+    margin-top: 10px;
+    width: 333px;
+    height: 40px;
+    margin-left: 20px;
+}
+.big{
+    font-size: 14px;
+}
+.small{
+    font-size: 12px;
+    color: rgb(180, 180, 180);
+}
+.result-distance{
+    font-size: 14px;
+    text-align: right;
+
+}
+.result-price{
+    font-size: 12px;
+    
+    text-align: right;
+    color: rgb(94, 144, 229);
+}
+.resultlist{
+    height: 400px;
+}
+
+
+.contentStyle1{
+    margin: 0;
+   
+    height: 140px;    
+    line-height: 140px;
+    text-align: center;
+    background: url('../../../images/packimage1.png');
+    background-size: 100% 100%;  
+    border-radius: 8px;
+}
+.contentStyle2{
+    margin: 0;
+    
+    height: 140px;    
+    line-height: 140px;
+    text-align: center;
+    background: url('../../../images/packimage2.png');
+    background-size: 100% 100%;  
+    border-radius: 8px;
+}
+.contentStyle3{
+    margin: 0;
+    
+    height: 140px;    
+    line-height: 140px;
+    text-align: center;
+    background: url('../../../images/packimage3.png');
+    background-size: 100% 100%;  
+    border-radius: 8px;
+}
+.contentStyle4{
+    margin: 0;
+    
+    height: 140px;    
+    line-height: 140px;
+    text-align: center;
+    background: url('../../../images/packimage4.png');
+    background-size: 100% 100%; 
+    border-radius: 8px; 
+}
+.lao1{
+    margin-top: 10px;
+    font-size: 20px;
+font-weight: 700;
+letter-spacing: 0px;
+line-height: 28.8px;
+color: rgba(33, 33, 33, 1);
+text-align: left;
+}
+.lao2{
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.2px;
+    line-height: 22.4px;
+    color: rgba(97, 97, 97, 1);
+    text-align: left;
+    vertical-align: middle;
+}
+.reset1{
+    width: 150px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.apply1{
+    width: 150px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+

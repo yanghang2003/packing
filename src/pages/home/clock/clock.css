@@ -1,0 +1,186 @@
+.arrow{
+    background:url('../../../images/Group.png') no-repeat;
+    background-size: 100% 100%;
+    width: 15px;
+    height: 12px;
+    margin-top: 40px;
+    margin-left: 20px;
+    opacity: 1;
+    float: left;
+  
+}
+.inform{
+    position: relative;
+    float: left;
+    font-size: 18px;
+    font-weight: 400;
+    width: 50px;
+    height: 20px;
+    line-height: 20px;
+    padding: 0px;
+    margin-top: 35px;
+    margin-left: 10px;
+    letter-spacing: 2px;
+}
+.today{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 300;
+    width: 50px;
+    height: 40px;
+    line-height: 20px;
+    padding: 0px;
+    letter-spacing: 1px;
+}
+.today1{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 20px;
+    width: 333px;
+    height: 80px;
+    border-radius:16px;
+    box-shadow:0px 4px 60px rgba(4, 6, 15,0.05);
+    
+    
+}
+.pay{
+    float: left;
+    background:url('../../../images/pay.png') no-repeat;
+    background-size: 100% 100%;
+    width: 52px;
+    height: 50px;
+    margin-left: 16px;
+    margin-top: 15px;
+   
+}
+.message0{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 200px;
+    height: 48px;
+    opacity: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.message1{
+    font-size: 18px;
+    font-weight: 700;
+    color: rgba(33, 33, 33, 1);
+}
+.message2{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(97, 97, 97, 1);
+}
+
+.cancel{
+    float: left;
+    background:url('../../../images/cancel.png') no-repeat;
+    background-size: 100% 100%;
+    width: 52px;
+    height: 50px;
+    margin-left: 16px;
+    margin-top: 15px;
+   
+}
+.today2{
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 20px;
+    width: 333px;
+    height: 80px;
+    border-radius:16px;
+    box-shadow:0px 4px 60px rgba(4, 6, 15,0.05);
+    
+    
+}
+.yesterday{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 300;
+    width: 50px;
+    height: 40px;
+    line-height: 20px;
+    padding: 0px;
+    letter-spacing: 1px;
+}
+.yesterday1{
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 20px;
+    width: 333px;
+    height: 80px;
+    border-radius:16px;
+    box-shadow:0px 4px 60px rgba(4, 6, 15,0.05);
+}
+.yesterday2{
+    position: absolute;
+    margin-top: 420px;
+    margin-left: 20px;
+    width: 333px;
+    height: 80px;
+    border-radius:16px;
+    box-shadow:0px 4px 60px rgba(4, 6, 15,0.05);
+}
+.pay1{
+    float: left;
+    background:url('../../../images/verification.png') no-repeat;
+    background-size: 100% 100%;
+    width: 52px;
+    height: 50px;
+    margin-left: 16px;
+    margin-top: 15px;
+   
+}
+.cancel1{
+    float: left;
+    background:url('../../../images/wallet.png') no-repeat;
+    background-size: 100% 100%;
+    width: 52px;
+    height: 50px;
+    margin-left: 16px;
+    margin-top: 15px;
+   
+}
+.ago{
+    position: absolute;
+    margin-top: 510px;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 300;
+    width: 200px;
+    height: 40px;
+    line-height: 20px;
+    padding: 0px;
+    letter-spacing: 1px;
+}
+.register{
+    float: left;
+    background:url('../../../images/registe.png') no-repeat;
+    background-size: 100% 100%;
+    width: 52px;
+    height: 50px;
+    margin-left: 16px;
+    margin-top: 15px;
+
+}
+.ago1{
+    position: absolute;
+    margin-top: 540px;
+    margin-left: 20px;
+    width: 333px;
+    height: 80px;
+    border-radius:16px;
+    box-shadow:0px 4px 60px rgba(4, 6, 15,0.05);
+}
+.ago2{
+    width: 100%;
+    height: 800px;
+}

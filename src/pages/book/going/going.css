@@ -1,0 +1,16 @@
+.going-cancel{
+    float: left;
+    margin-left: 10px;
+    width: 80px;
+    height: 20px;
+    margin-top: 5px;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    color:white;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 7px;
+    background: rgba(77, 93, 250, 1);
+
+}

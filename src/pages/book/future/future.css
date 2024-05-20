@@ -1,0 +1,111 @@
+.go-content{
+    width: 333px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 4px 60px  rgba(4, 6, 15, 0.05);
+}
+.go-image{
+    float: left;
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
+    margin-left: 15px;
+    background: url('../../../images/save3.png');
+    background-size: 100% 100%;
+}
+.gotent{
+    float: left;
+    width: 210px;
+    height: 100px;
+    margin-left: 20px;
+}
+.go-name{
+    margin-top: 20px;
+    font-size: 16px;
+    width: 200px;
+    height: 20px;
+    line-height: 20px;
+    font-weight: 600;
+}
+.go-time{
+    font-size: 10px;
+    width: 200px;
+    height: 20px;
+    line-height: 20px;
+    font-weight: 300;
+    color: rgb(60, 60, 60);
+}
+.go-detail{
+    width: 200px;
+    height: 30px;
+    
+}
+.go-pay{
+    float: left;
+    font-size: 14px;
+    height: 30px;
+    line-height: 30px;
+    
+    color: rgb(57, 151, 252);
+    
+}
+.go-tatal-time{
+    float: left;
+    font-size: 10px;
+    height: 30px;
+    line-height: 30px;
+}
+.go-cancel{
+    float: left;
+    margin-left: 10px;
+    width: 80px;
+    height: 20px;
+    margin-top: 5px;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    color: rgba(247, 85, 85, 1);
+    line-height: 20px;
+    text-align: center;
+    border-radius: 7px;
+    border: 1px solid rgba(247, 85, 85, 1);
+}
+.go-image1{
+    float: left;
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
+    margin-left: 15px;
+    background: url('../../../images/save1.png');
+    background-size: 100% 100%;
+}
+.go-image2{
+    float: left;
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
+    margin-left: 15px;
+    background: url('../../../images/save2.png');
+    background-size: 100% 100%;
+}
+.go-image3{
+    float: left;
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
+    margin-left: 15px;
+    background: url('../../../images/save4.png');
+    background-size: 100% 100%;
+}
+.go-image4{
+    float: left;
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
+    margin-left: 15px;
+    background: url('../../../images/save5.png');
+    background-size: 100% 100%;
+}

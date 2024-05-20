@@ -1,0 +1,112 @@
+.profile-title{
+    width: 200px;
+    height: 20px;
+    line-height: 20px;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.proflie-headimage{
+    width: 90px;
+    height: 90px;
+    margin: auto;
+    margin-top: 30px;
+    background: url('../../images/profile.jpg');
+    background-size: 100% 100%;
+    border-radius: 45px;
+    box-shadow: 0px 4px 60px  rgba(4, 6, 15, 0.05);
+    border: 1px solid gray;
+}
+.profile-name{
+    width: 80px;
+    height: 20px;
+    font-size: 12px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+.profile-email{
+    width: 80px;
+    height: 20px;
+    font-size: 12px;
+    margin: auto;
+    margin-top: 3px;
+    text-align: center;
+}
+.profile-content{
+    width: 333px;
+    height: 300px;
+    
+    margin-left: 20px;
+}
+.edit{
+    width: 333px;
+    height: 50px;
+}
+
+.edit-cont{
+    float: left;
+    width: 100px;
+    height: 20px;
+    margin-top: 18px;
+    margin-left: 20px;
+    font-size: 14px;
+    line-height: 20px;
+    vertical-align: middle;
+    
+}
+.edit-icon1{
+    float: left;
+    width: 15.69px;
+    height: 19.26px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background: url('../../images/profile.png');
+    background-size: 100% 100%;
+}
+.edit-icon2{
+    float: left;
+    width: 15.69px;
+    height: 19.26px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background: url('../../images/payment.png');
+    background-size: 100% 100%;
+}
+.edit-icon3{
+    float: left;
+    width: 15.69px;
+    height: 19.26px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background: url('../../images/notification.png');
+    background-size: 100% 100%;
+}
+.edit-icon4{
+    float: left;
+    width: 15.69px;
+    height: 19.26px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background: url('../../images/security.png');
+    background-size: 100% 100%;
+}
+.edit-icon5{
+    float: left;
+    width: 15.69px;
+    height: 19.26px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background: url('../../images/help.png');
+    background-size: 100% 100%;
+}
+.edit-icon6{
+    float: left;
+    width: 19.69px;
+    height: 19.26px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background: url('../../images/layout1.png');
+    background-size: 100% 100%;
+}

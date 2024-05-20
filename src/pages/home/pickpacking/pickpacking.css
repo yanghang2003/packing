@@ -1,0 +1,384 @@
+.pick-floor{
+    width: 333px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.pick-1{
+    float: left;
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 15px;
+    background: rgba(64, 123, 255, 1);
+    color: white;
+    font-size: 14px;
+    margin-left: 20px;
+}
+.pick-head{
+    height: 80px;
+    
+}
+.pick-2{
+    float: left;
+    width: 80px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 15px;
+    margin-left: 20px;
+    color: rgba(64, 123, 255, 1);
+    font-size: 14px;
+    border: 2px solid rgba(64, 123, 255, 1);
+}
+.pick-3{
+    float: left;
+    width: 80px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 15px;
+    margin-left: 20px;
+    color: rgba(64, 123, 255, 1);
+    font-size: 14px;
+    border: 2px solid rgba(64, 123, 255, 1);
+}
+.pick-line{
+    float: left;
+    width: 30px;
+    height: 370px;
+    background: url('../../../images/long-line.png');
+    background-size: 100% 100%;
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.pick-slect{
+    float: left;
+    width: 200px;
+    height: 400px;
+    
+    margin-top: 55px;
+    margin-left: 20px;
+}
+.pick-groub1{
+    width: 200px;
+    height: 150px;
+
+}
+.middle-line{
+    
+    width: 170px;
+    height: 13px;
+    background: url('../../../images/middel-line.png');
+    background-size: 100% 100%;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+
+.pick-groub2{
+    margin-top: 18px;
+    width: 200px;
+    height: 150px;
+}
+.pick-left1{
+    float: left;
+    width: 96px;
+    height: 50px;
+    border: 1px solid rgba(189, 189, 189, 1);
+    border-left: none;
+    border-bottom: none;
+   
+}
+.pick-left2{
+    float: left;
+    width: 96px;
+    height: 50px;
+    border: 1px solid rgba(189, 189, 189, 1);
+    border-left: none;
+    border-bottom: none;
+}
+.pick-left3{
+    float: left;
+    width: 96px;
+    height: 50px;
+    border: 1px solid rgba(189, 189, 189, 1);
+    border-left: none;
+}
+.pick-left4{
+    float: left;
+    width: 96px;
+    height: 50px;
+    border: 1px solid rgba(189, 189, 189, 1);
+    border-left: none;
+    border-bottom: none;
+}
+.pick-left5{
+    float: left;
+    width: 96px;
+    height: 50px;
+    border: 1px solid rgba(189, 189, 189, 1);
+    border-left: none;
+    border-bottom: none;
+}
+.pick-left6{
+    float: left;
+    width: 96px;
+    height: 50px;
+    border: 1px solid rgba(189, 189, 189, 1);
+    border-left: none;
+}
+.pick-right1{
+    float: left;
+    width: 96px;
+    height: 50px;
+    border: 1px solid rgba(189, 189, 189, 1);
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+}
+.pick-right2{
+    float: left;
+    width: 96px;
+    height: 50px;
+    border: 1px solid rgba(189, 189, 189, 1);
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+}
+.pick-right3{
+    float: left;
+    width: 96px;
+    height: 50px;
+    border: 1px solid rgba(189, 189, 189, 1);
+    border-right: none;
+    border-left: none;
+}
+.pick-right4{
+    float: left;
+    width: 96px;
+    height: 50px;
+    border: 1px solid rgba(189, 189, 189, 1);
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+}
+.pick-right5{
+    float: left;
+    width: 96px;
+    height: 50px;
+    border: 1px solid rgba(189, 189, 189, 1);
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+}
+.pick-right6{
+    float: left;
+    width: 96px;
+    height: 50px;
+    border: 1px solid rgba(189, 189, 189, 1);
+    border-right: none;
+    border-left: none;
+}
+.pick-car1{
+    width: 60px;
+    height: 30px;
+    background: url('../../../images/pick-car.png');
+    background-size: 100% 100%;
+    margin-top: 10px;
+    margin-left: 16px;
+}
+.pick-car5{
+    width: 60px;
+    height: 30px;
+    background: url('../../../images/pick-car.png');
+    background-size: 100% 100%;
+    margin-top: 10px;
+    margin-left: 16px;
+}
+.pick-car6{
+    width: 60px;
+    height: 30px;
+    background: url('../../../images/pick-car.png');
+    background-size: 100% 100%;
+    margin-top: 10px;
+    margin-left: 16px;
+}
+.pick-car7{
+    width: 60px;
+    height: 30px;
+    background: url('../../../images/pick-car.png');
+    background-size: 100% 100%;
+    margin-top: 10px;
+    margin-left: 16px;
+}
+.pick-car8{
+    width: 60px;
+    height: 30px;
+    background: url('../../../images/pick-car.png');
+    background-size: 100% 100%;
+    margin-top: 10px;
+    margin-left: 16px;
+}
+.pick-car11{
+    width: 60px;
+    height: 30px;
+    background: url('../../../images/pick-car.png');
+    background-size: 100% 100%;
+    margin-top: 10px;
+    margin-left: 16px;
+ 
+}
+.pick-car12{
+    width: 60px;
+    height: 30px;
+    background: url('../../../images/pick-car.png');
+    background-size: 100% 100%;
+    margin-top: 10px;
+    margin-left: 16px;
+ 
+}
+.pick-car2{
+    width: 70px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 11px;
+    color: rgba(64, 123, 255, 1);
+    font-size: 14px;
+    border: 2px solid rgba(64, 123, 255, 1);
+    background: rgba(237, 239, 255, 1);
+    border-radius: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+.pick-car4{
+    width: 70px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 11px;
+    color: rgba(64, 123, 255, 1);
+    font-size: 14px;
+    border: 2px solid rgba(64, 123, 255, 1);
+    background: rgba(237, 239, 255, 1);
+    border-radius: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+.pick-car9{
+    width: 70px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 11px;
+    color: rgba(64, 123, 255, 1);
+    font-size: 14px;
+    border: 2px solid rgba(64, 123, 255, 1);
+    background: rgba(237, 239, 255, 1);
+    border-radius: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+.pick-car10{
+    width: 70px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 11px;
+    color: rgba(64, 123, 255, 1);
+    font-size: 14px;
+    border: 2px solid rgba(64, 123, 255, 1);
+    background: rgba(237, 239, 255, 1);
+    border-radius: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+.pick-car3{
+    width: 70px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 11px;
+    color: rgba(64, 123, 255, 1);
+    font-size: 14px;
+    border: 2px solid rgba(64, 123, 255, 1);
+    background: rgba(237, 239, 255, 1);
+    border-radius: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+.pick-car2:hover{
+    width: 70px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 11px;
+    color: white;
+    font-size: 14px;
+    border: 2px solid rgba(64, 123, 255, 1);
+    background: rgba(77, 93, 250, 1);
+    border-radius: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+.pick-car3:hover{
+    width: 70px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 11px;
+    color: white;
+    font-size: 14px;
+    border: 2px solid rgba(64, 123, 255, 1);
+    background: rgba(77, 93, 250, 1);
+    border-radius: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+.pick-car4:hover{
+    width: 70px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 11px;
+    color: white;
+    font-size: 14px;
+    border: 2px solid rgba(64, 123, 255, 1);
+    background: rgba(77, 93, 250, 1);
+    border-radius: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+.pick-car9:hover{
+    width: 70px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 11px;
+    color: white;
+    font-size: 14px;
+    border: 2px solid rgba(64, 123, 255, 1);
+    background: rgba(77, 93, 250, 1);
+    border-radius: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+.pick-car10:hover{
+    width: 70px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 11px;
+    color: white;
+    font-size: 14px;
+    border: 2px solid rgba(64, 123, 255, 1);
+    background: rgba(77, 93, 250, 1);
+    border-radius: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+.pick-continue{
+    float: left;
+    width: 250px;
+    height: 40px;
+    margin-left: 61px;
+    border-radius: 15px;
+    color: white;
+    background: rgba(64, 123, 255, 1);
+    margin-top: -15px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 16px;
+}

@@ -1,0 +1,128 @@
+.save-head{
+    width: 100px;
+    height: 20px;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.save-icon{
+    float: left;
+    margin-top: 12px;
+    margin-left: 15px;
+    width: 16px;
+    height: 16px;
+    background: url('../../images/search-icon.png');
+    background-size: 100% 100%;
+}
+.save-input{
+    float: left;
+    margin-top: 5px;
+    margin-left: 15px;
+    width: 240px;
+    height: 30px;
+    border: none;
+    outline: none;
+    background: rgba(248, 247, 253, 1);
+}
+.save-search{
+    width: 333px;
+    height: 40px;
+    margin-left: 20px;
+    border-radius: 12px;
+    margin-top: 30px;
+    background: rgba(248, 247, 253, 1);
+    border: 1px solid rgba(64, 123, 255, 1);
+}
+.save-content{
+    width: 333px;
+    height: 80px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 4px 60px  rgba(4, 6, 15, 0.05);
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.save-content-image0{
+    float: left;
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background:url('../../images/save1.png');
+    background-size: 100% 100%;
+}
+.save-contents{
+    float: left;
+    width: 180px;
+    height: 80px;
+    margin-left: 10px;
+
+
+}
+.save-contents-big{
+    width: 200px;
+    height: 24px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    letter-spacing: 0px;
+    line-height: 24px;
+    color: rgba(33, 33, 33, 1);
+    text-align: left;
+}
+.save-contents-small{
+    width: 200px;
+    height: 24px;
+    font-size: 12px;
+    margin-top: 5px;
+    text-align: left;
+    color: rgba(97, 97, 97, 1);
+}
+.save-contents-icon{
+    float: left;
+    width: 15px;
+    height: 20px;
+    
+    margin-top: 30px;
+    margin-left: 30px;
+    background: url('../../images/Exclude.png');
+    background-size: 100% 100%;
+}
+.save-content-image1{
+    float: left;
+    width: 60px;
+    height: 60px;
+    margin-top: 8px;
+    margin-left: 10px;
+    background:url('../../images/save2.png');
+    background-size: 100% 100%;
+}
+.save-content-image2{
+    float: left;
+    width: 60px;
+    height: 60px;
+    margin-top: 8px;
+    margin-left: 10px;
+    background:url('../../images/save3.png');
+    background-size: 100% 100%;
+}
+.save-content-image3{
+    float: left;
+    width: 60px;
+    height: 60px;
+    margin-top: 8px;
+    margin-left: 10px;
+    background:url('../../images/save4.png');
+    background-size: 100% 100%;
+}
+.save-content-image4{
+    float: left;
+    width: 60px;
+    height: 60px;
+    margin-top: 8px;
+    margin-left: 10px;
+    background:url('../../images/save5.png');
+    background-size: 100% 100%;
+}
